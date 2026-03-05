@@ -1,6 +1,6 @@
 m = Map("autoua2f", translate("UA2F"))
 m.description = translate([[
-        <span style="font-family: '微软雅黑'; color: red">该插件并非适合所有类型的检测！！！有网络的情况时下方会显示你的UA，如果两个UA不一样就说明成功了</span>
+        <span style="font-family: '微软雅黑'; color: red">此页面为ua2f绕过修改界面，请勿乱动以免出错</span>
     ]])
     
 m:section(SimpleSection).template = "ua2f/ua2f"
