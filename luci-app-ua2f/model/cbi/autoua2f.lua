@@ -1,6 +1,11 @@
 m = Map("autoua2f", translate("UA2F"))
 m.description = translate([[
-        <span style="font-family: '微软雅黑'; color: red">此页面为ua2f绕过修改界面，请勿乱动以免出错</span>
+        <span style="font-family: '微软雅黑'; color: red">此页面为ua2f绕过修改界面，请勿乱动以免出错
+        <br/>
+        <a href="http://www.nd7.top/index.php/2026/03/01/%e6%a0%a1%e5%9b%ad%e7%bd%91%e8%b7%af%e7%94%b1%e5%99%a8%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b/" target="_blank" style="color: #00a2ff; text-decoration: underline; margin-left: 5px;">
+            [点击进入路由器教程网址]
+        </a>
+        </span>
     ]])
     
 m:section(SimpleSection).template = "ua2f/ua2f"
